@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Пиксельный дизайн<title>
+        <title>Пиксельный дизайн</title>
         <link rel="stylesheet" href="style.CSS"/>
     </head>
     <body>
